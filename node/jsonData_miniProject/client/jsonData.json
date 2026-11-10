@@ -1,0 +1,23 @@
+[
+  {
+    "fname": "a",
+    "lname": "b",
+    "email": "a@gmail.com",
+    "DOB": "2026-04-01",
+    "place": "c"
+  },
+  {
+    "fname": "d",
+    "lname": "c",
+    "email": "d@gmail.com",
+    "DOB": "2026-04-04",
+    "place": "c"
+  },
+  {
+    "fname": "f",
+    "lname": "f",
+    "email": "f@gmail.com",
+    "DOB": "2026-04-01",
+    "place": "c"
+  }
+]
