@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="navbar">
+        <a href="/">add</a>
+    <a href="/display">display</a>
+
+    </div>
+    <div class="formbox">
+        <h1>Employee Details</h1>
+        <form onsubmit="handleForm(event)">
+            <input type="text" placeholder="Employee name">
+            <input type="number" placeholder="Employee id">
+            <input type="number" placeholder="Employee department">
+            <input type="text" placeholder="Employee role">
+            <button>submit</button>
+        </form>
+        <button onclick="deleteAllData()">Delete All</button>
+        <button onclick="displayBYName()">diiplay</button>
+    </div>
+    <script src="/script"></script>
+</body>
+</html>
